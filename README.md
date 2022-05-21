@@ -4,6 +4,6 @@
 
 Simple example of setting up a solidity contract and calling on functions to deposit, withdraw and verify blockchain wallet balances and transactions
 
-![alt=“”](Execution_Results/10EthertoAccount2.jgp)
+![alt=“”](Execution_Results/10EthertoAccount2.jpg)
 
 ![alt=“”](Execution_Results/5EthertoAccount1.jgp)
